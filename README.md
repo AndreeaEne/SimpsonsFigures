@@ -1,4 +1,4 @@
-This project has been created by Group 843: Andreea-Daniela Ene, Daniel Michelsanti, Yanis Guichi and Rares Stef, in the 2nd semester of the Master's Program in Vision, Graphics and Interactive Systems, for the Robot Vision Course. 
+This project has been created by Group 843: Andreea-Daniela Ene, Daniel Michelsanti, Yanis Guichi and Rares Stef, in the 2nd semester of the Master's Program in Vision, Graphics and Interactive Systems at Aalborg University, for the Robot Vision Course. 
 
 Framework:
 In order to run the code, you need to be inside the RV folder and include all the folders to the MATLAB path.
